@@ -46,7 +46,7 @@
 
 
 <h2>ER Diagram</h2>
-<img style="height: 300px;width: 250px;" src="https://user-images.githubusercontent.com/103634964/208470378-722aabbb-46e8-4a9a-afbd-d77c41da8d84.jpeg" alt="">
+<img style="height: 350px;width: 350px;" src="https://user-images.githubusercontent.com/103634964/208470378-722aabbb-46e8-4a9a-afbd-d77c41da8d84.jpeg" alt="">
 
 </div>
 </body>
